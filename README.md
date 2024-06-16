@@ -6,6 +6,7 @@ conda activate fastapi-env
 pip install -r requirements.txt
 ```
 
+
 # Running the server
 `uvicorn main:app --reload`
 # `uvicorn main:my_first_api --reload`
